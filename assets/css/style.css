@@ -1,0 +1,18 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul,
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+#grid {
+  width: 400px;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  gap: 0;
+}
